@@ -44,6 +44,11 @@ html, body {
       font-size: 12px;
       font-weight: 100;
       letter-spacing: 4px;
+     
+}
+a{
+      color: grey;
+      text-decoration:none;
 }
 
 .watch ion-icon {
